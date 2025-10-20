@@ -20,7 +20,7 @@ It includes:
 - 👩‍💻 An **About Me** section highlighting my career goals and background  
 - 🧩 A **Projects** showcase with links to my work  
 - 📄 A **Resume Download** button  
-- 📞 Direct **Contact Links** (Email and WhatsApp)  
+- 📞 Direct **Contact Links** ("https://mail.google.com/mail/?view=cm&fs=1&to=ochanyafaith24@email.com")  
 
 The design focuses on simplicity, elegance, and interactivity.
 
@@ -28,8 +28,8 @@ The design focuses on simplicity, elegance, and interactivity.
 
 ## 🧰 Technologies Used
 
-- **HTML5** — For structure  
-- **CSS3** — For styling and layout  
+- **HTML** — For structure  
+- **CSS** — For styling and layout  
 - **Responsive Design** — Optimized for desktop and mobile  
 - **GitHub Pages** — For hosting and deployment  
 
@@ -46,12 +46,6 @@ The design focuses on simplicity, elegance, and interactivity.
 ✅ Soft color gradient background  
 ✅ Modern and professional layout  
 
----
 
-## 🚀 How to View Locally
 
-If you’d like to run the project on your computer:
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/Gentlemee/my_portfolio.git
