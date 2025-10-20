@@ -18,8 +18,8 @@ This portfolio showcases my journey, skills, and featured projects in a beautifu
 The **Gentleme Portfolio** serves as my online presence, giving visitors a look into who I am and what I do.  
 It includes:
 - 👩‍💻 An **About Me** section highlighting my career goals and background  
-- 🧩 A **Projects** showcase with links to my work  
-- 📄 A **Resume Download** button  
+- 🧩 A **Projects** 
+- 📄 A **Resume Download** "Faith_Daniel_Resume.pdf"  
 - 📞 Direct **Contact Links** ("https://mail.google.com/mail/?view=cm&fs=1&to=ochanyafaith24@email.com")  
 
 The design focuses on simplicity, elegance, and interactivity.
@@ -45,6 +45,7 @@ The design focuses on simplicity, elegance, and interactivity.
 ✅ Email and WhatsApp contact buttons  
 ✅ Soft color gradient background  
 ✅ Modern and professional layout  
+
 
 
 
